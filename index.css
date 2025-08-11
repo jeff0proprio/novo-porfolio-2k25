@@ -40,7 +40,7 @@ body {
 }
 
 .logo:hover {
-    color: #ADD8E6;
+    color: #01001C;
     cursor: pointer;
 }
 
@@ -57,7 +57,7 @@ body {
 }
 
 .txt-cabecalho:hover {
-    color: #ADD8E6;
+    color: #01001C;
 }
 
 .Conteiner-principal {
@@ -79,7 +79,7 @@ body {
 
 .Biografia h1 {
     text-align: center;
-    color: #534DFF;
+    color: #01001C;
     font-size: 2.5rem;
     margin-bottom: 1rem;
 }
@@ -154,7 +154,7 @@ hr{
 .Curriculo h1 {
     font-size: 2rem;
     margin-bottom: 1rem;
-    color: #534DFF; 
+    color: #01001C; 
 }
 
 .Curriculo img {
@@ -179,8 +179,7 @@ hr{
     flex-direction: column;
     align-items: center;
     padding: 20px;
-    background-color: #030057;
-    color: #ADD8E6;
+    color: #01001C;
 }
 
 .Portifolios-antigos h1 {
