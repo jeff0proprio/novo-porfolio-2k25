@@ -39,6 +39,11 @@ body {
     text-decoration: none;
 }
 
+.logo:hover {
+    color: #ADD8E6;
+    cursor: pointer;
+}
+
 .Materias {
     display: flex;
     gap: 1.5rem;
